@@ -1,0 +1,195 @@
+
+body {
+	/*background-image: url("../images/spacebit.jpg");*/
+	background-color: white;
+	background-size: 1920px;
+	overflow: hidden;
+}
+h1,h2,h3,h4,h5,h6 {
+	
+
+}
+.navbar-brand {
+	font-family: 'Poiret One', cursive;
+	color: rgb(230, 100, 21) !important;
+	font-weight: bold;
+
+}
+
+.navbar {
+	margin-bottom: 5%;
+}
+
+
+#header {
+	padding: 20px;
+}
+
+#content {
+
+}
+#contentlist {
+	width: 100%;
+	height: 30%;
+}
+.content-view {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 2%;
+
+
+}
+.content-view table {
+
+}
+button {
+	color: black !important;
+}
+
+#footer {
+	color: white;
+	padding: 20px;
+	opacity: .7;
+}
+
+.admin_menu{
+	border: 1px solid #e7e7e7;
+	border-radius: 10px;
+	background-color: rgba(211, 211, 211, 0.25);
+
+}
+.admin_menu h4 {
+	text-align: center;
+}
+.admin_menu ul {
+	list-style-type: none;
+
+
+}
+#content-title{
+	text-align: center;
+}
+.content-add{
+	border-radius: 10px;
+	border: 1px solid #e7e7e7;
+	width: 300px;
+	padding: 3%;
+}
+.content-add h5 {
+	text-align: center;
+
+}
+#userinfo {
+	width: 100%;
+	height: 30%;
+	padding: 2%;
+
+}
+#userinfo td {
+	width: 200px;
+}
+#userinfo a {
+	width: 20px;
+
+}
+
+#userinfo tr:nth-child(even){
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+
+}
+
+#contentlist tr:nth-child(even){
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	
+}
+#contentlist tr {
+	height: 5%;
+
+}
+
+.user-form {
+	display: none;
+
+}
+#usertitle {
+	text-align: center;
+	
+
+}
+#createuser {
+	margin-bottom: 1%;
+
+}
+#search {
+	width: 150px;
+
+}
+.userlist{
+	margin-bottom: 5%;
+	background-color: rgba(211, 211, 211, 0.25);
+	padding: .5%;
+
+}
+
+.news {
+	background-color: rgba(211, 211, 211, 0.25);
+	border-radius: 10px;
+	padding: 2%;
+	margin-bottom: 2%;
+	
+}
+.dashboardtitle h5{
+	text-align: center;
+}
+.admin_menu {
+	margin-bottom: 2%;
+	background-color: rgba(211, 211, 211, 0.25);
+	
+
+}
+.dashboardcontent{
+	background-color: rgba(211, 211, 211, 0.25);
+
+
+}
+.site_stats{
+	 background-color: rgba(211, 211, 211, 0.25);
+	
+
+ }
+.row {
+	background-color: white;
+	
+	
+}
+.verticalline {
+	border-right: 1px solid black !important;
+	
+}
+
+.content-button {
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: darkorange;
+	font-size: 14pt;
+
+}
+
+
+.content-button a {
+	color: black;
+
+}
+.selecttype {
+	margin-left: 2%;
+	margin-bottom: 2%;
+
+}
+.pagetitle {
+	text-align: center;
+	padding: 2%;
+
+}
